@@ -1,0 +1,1 @@
+[https://github.com/AhmedZatar/django-snacks/pull/1](https://github.com/AhmedZatar/django-snacks/pull/1)
